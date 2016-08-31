@@ -11,4 +11,3 @@ $(function(){
 		output = "";
 	}
 })
-// Created by: Josh Eimer
